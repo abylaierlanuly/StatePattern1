@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/abylai/.dotnet/store/|arch|/|tfm|",
+      "/Users/abylai/.nuget/packages"
+    ]
+  }
+}

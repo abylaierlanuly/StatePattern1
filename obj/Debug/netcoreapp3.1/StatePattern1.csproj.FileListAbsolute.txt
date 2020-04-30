@@ -1,0 +1,12 @@
+/Users/abylai/Projects/StatePattern1/StatePattern1/bin/Debug/netcoreapp3.1/StatePattern1.deps.json
+/Users/abylai/Projects/StatePattern1/StatePattern1/bin/Debug/netcoreapp3.1/StatePattern1.runtimeconfig.json
+/Users/abylai/Projects/StatePattern1/StatePattern1/bin/Debug/netcoreapp3.1/StatePattern1.runtimeconfig.dev.json
+/Users/abylai/Projects/StatePattern1/StatePattern1/bin/Debug/netcoreapp3.1/StatePattern1.dll
+/Users/abylai/Projects/StatePattern1/StatePattern1/bin/Debug/netcoreapp3.1/StatePattern1.pdb
+/Users/abylai/Projects/StatePattern1/StatePattern1/obj/Debug/netcoreapp3.1/StatePattern1.csprojAssemblyReference.cache
+/Users/abylai/Projects/StatePattern1/StatePattern1/obj/Debug/netcoreapp3.1/StatePattern1.csproj.CoreCompileInputs.cache
+/Users/abylai/Projects/StatePattern1/StatePattern1/obj/Debug/netcoreapp3.1/StatePattern1.AssemblyInfoInputs.cache
+/Users/abylai/Projects/StatePattern1/StatePattern1/obj/Debug/netcoreapp3.1/StatePattern1.AssemblyInfo.cs
+/Users/abylai/Projects/StatePattern1/StatePattern1/obj/Debug/netcoreapp3.1/StatePattern1.dll
+/Users/abylai/Projects/StatePattern1/StatePattern1/obj/Debug/netcoreapp3.1/StatePattern1.pdb
+/Users/abylai/Projects/StatePattern1/StatePattern1/obj/Debug/netcoreapp3.1/StatePattern1.genruntimeconfig.cache
